@@ -77,6 +77,8 @@ class Point3D : IComparable<Point3D>, ICloneable
     public int Y { get; set; }
     public int Z { get; set; }
 
+    public Point3D() { } 
+    
     public Point3D(int x)
     {
         X = x;
