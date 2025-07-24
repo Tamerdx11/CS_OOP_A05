@@ -1,0 +1,15 @@
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\bin\Debug\net9.0\CS_OOP_A05.exe
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\bin\Debug\net9.0\CS_OOP_A05.deps.json
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\bin\Debug\net9.0\CS_OOP_A05.runtimeconfig.json
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\bin\Debug\net9.0\CS_OOP_A05.dll
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\bin\Debug\net9.0\CS_OOP_A05.pdb
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\obj\Debug\net9.0\CS_OOP_A05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\obj\Debug\net9.0\CS_OOP_A05.AssemblyInfoInputs.cache
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\obj\Debug\net9.0\CS_OOP_A05.AssemblyInfo.cs
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\obj\Debug\net9.0\CS_OOP_A05.csproj.CoreCompileInputs.cache
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\obj\Debug\net9.0\CS_OOP_A05.sourcelink.json
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\obj\Debug\net9.0\CS_OOP_A05.dll
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\obj\Debug\net9.0\refint\CS_OOP_A05.dll
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\obj\Debug\net9.0\CS_OOP_A05.pdb
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\obj\Debug\net9.0\CS_OOP_A05.genruntimeconfig.cache
+C:\Users\Al-Quds\source\repos\CS_OOP_A05\obj\Debug\net9.0\ref\CS_OOP_A05.dll
